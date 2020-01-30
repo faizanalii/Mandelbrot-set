@@ -1,2 +1,4 @@
 # Mandelbrot-set
-This project is made in C language and optimized using (&lt;omp>). When you run the code it asks for how many threads you'll like to use. When you Input number of threads it performs all the functions and creates a .ppm file this file isn't open in your native photo viewer so open this in photoshop and convert its type into .png save the file. Thanks!
+This project is made in C language and optimized using (&lt;omp>). When you run the code it asks for how many threads you'll like to use. When you Input number of threads it performs all the functions and creates a .ppm file this file isn't open in your native photo viewer so open this in photoshop and convert its type into .png save the file.
+Size of .ppm file is big usually more than 50MB because too much pixels are used.
+Thanks!
